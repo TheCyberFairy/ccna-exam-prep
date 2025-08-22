@@ -25,18 +25,10 @@ This repository follows my progress through a Udemy CCNA (200-301) course. Each 
 
 ## ✅ Progress Tracking
 
-- [x] Day 1: Intro to Networking  
-- [x] Day 2: TCP/IP vs OSI Models  
-- [ ] Day 3: Subnetting Review  
-- [ ] Day 4: Switches + VLANs  
-- [ ] Day 5: Routing Basics  
+- [x] Day 1: Intro to Networking + TCP/IP & OSI Models
 
-## 📚 Study Sessions (Udemy Course-Aligned)
+## 📅 Study Sessions
 
-| Section | Topic | Notes | Labs |
-|---------|-------|-------|------|
-| 1 | Introduction & Networking Basics | 
-| 2 | TCP/IP & OSI Models | 
-| 3 | Subnetting & IP Addressing | 
-| 4 | Switching, VLANs & Trunking |
-| 5 | Routing Fundamentals | 
+| Day | Date       | Topics Covered                                                                 | Notes | Lab |
+|-----|------------|--------------------------------------------------------------------------------|-------|-----|
+| 1   | 2025-08-22 | Intro to Networking, OSI Model, TCP/IP Stack, Upper & Lower OSI, Cisco Layers, Packet Tracer install | [Notes](01-day-2025-08-22/notes.md) | [Lab](01-day-2025-08-22/lab.md) |
