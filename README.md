@@ -26,6 +26,7 @@ This repository follows my progress through a Udemy CCNA (200-301) course. Each 
 ## ✅ Progress Tracking
 
 - [x] Day 1: Intro to Networking + TCP/IP & OSI Models
+- [x] Day 2: Cisco Operating System and the Transport Layer
 
 ## 📅 Study Sessions
 
