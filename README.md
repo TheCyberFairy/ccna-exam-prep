@@ -33,3 +33,4 @@ This repository follows my progress through a Udemy CCNA (200-301) course. Each 
 | Day | Date       | Topics Covered                                                                 | Notes | Lab |
 |-----|------------|--------------------------------------------------------------------------------|-------|-----|
 | 1   | 2025-08-22 | Intro to Networking, OSI Model, TCP/IP Stack, Upper & Lower OSI, Cisco Layers, Packet Tracer install | [Notes](01-day-2025-08-22/notes.md) | [Lab](01-day-2025-08-22/lab.md) |
+| 2   | 2025-08-23 | Cisco IOS basics, device modes, Transport Layer (TCP vs UDP), TCP Header, Ports | [Notes](02-day-2025-08-23/notes.md) |  
